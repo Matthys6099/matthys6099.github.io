@@ -3,9 +3,10 @@ background-color: #caf1b1;
 }
 
 body{
+    
     background-color: #fffdea;
-   background:url('Clouds.jfif',0.05);
-   background-blend-mode: overlay; 
+    background:url('Clouds.jfif',0.05);
+    background-blend-mode: overlay; 
     width: 100%;
     height: 100vh; 
     background-size: cover;
