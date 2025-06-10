@@ -4,7 +4,8 @@ background-color: #caf1b1;
 
 body{
     background-color: #fffdea;
-   
+   background:url('Clouds.jfif');
+    opacity:0.75;
 }
 ul{
     display: inline-flex;
